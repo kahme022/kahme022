@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khalid Ahmed
-- 👀 I’m interested in Mobile App Development
+- 👀 I’m interested in Web and Mobile Application Development
 - 🌱 I’m currently studying Software Engineering
 - 📫 You can reach me at kahme022@uottawa.ca
 
