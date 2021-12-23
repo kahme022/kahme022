@@ -1,11 +1,4 @@
-
-- 👀 I’m interested in Web and Mobile Application Development
-- 🌱 I’m currently studying Software Engineering
-- 📫 You can reach me at kahme022@uottawa.ca
-
 <h1 align="center">Hi 👋, I'm Khalid Ahmed</h1>
-
-
 
 - 🔭 Bachelor's degree in **Computer Science** at UniBo
 - 🌱 I’m currently learning **Cyber Security** at UniMore
