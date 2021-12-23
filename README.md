@@ -35,8 +35,6 @@
 - E-mail: federico.dondi2@studio.unibo.it
 
 
-![Khalid Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&hide_border=true)
-
 [stackoverflow]: https://stackoverflow.com/users/13278024/federico-dondi
 [github]: https://github.com/kahme022
 [site]: https://federico-dondi.github.io
@@ -45,4 +43,4 @@
 
 📈 my github stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img src="https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&theme=gotham" alt="kahme022" />
