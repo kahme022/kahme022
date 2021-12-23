@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Software Engineering
 - 📫 You can reach me at kahme022@uottawa.ca
 
-# Hello, I’m Khalid Ahmed 👋
+<h1 align="center">Hi 👋, I'm Khalid Ahmed!</h1>
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
