@@ -45,4 +45,4 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
