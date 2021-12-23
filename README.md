@@ -22,11 +22,15 @@
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
 - GitHub: [github.com/federico-dondi][github]
-- <a href="https://www.linkedin.com/in/kahme022/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/kahme022/">
+  <img align="left" alt="Khalid's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<a href="https://github.com/kahme022">
+  <img align="left" alt="Khalid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+
 - Site: [federico-dondi.github.io][site]
 - E-mail: federico.dondi2@studio.unibo.it
 
