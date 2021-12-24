@@ -25,6 +25,7 @@
 [<img align="left" alt="Khalid's Linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/kahme022/)
 [<img align="left" alt="Khalid's Github" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"/>](https://github.com/kahme022)
 
+<br>
 
 ### 📈 My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&theme=gotham" alt="kahme022" />
