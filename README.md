@@ -9,6 +9,7 @@
 
  ### 🧰 Languages and Tools
 
+<br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -24,11 +25,14 @@
 
 ### 📬 Get in Touch
 
+<br>
 
 - <img align="left" alt="Khalid's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />: [linkedin.com/kahme022](https://www.linkedin.com/in/kahme022/)
 - <img align="left" alt="Khalid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />: [github.com/kahme022](https://github.com/kahme022)
 - <img align="left" alt="Khalid's Github" width="22px" src="https://www.flaticon.com/free-icon/email_893257?term=email&page=1&position=65&page=1&position=65&related_id=893257&origin=tag" />: kahme022@uottawa.ca
 
 ### 📈 My Github Stats
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&theme=gotham" alt="kahme022" />
