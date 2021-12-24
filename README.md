@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** and **Unity 3D** communities
 
+<br><br>
+
  ### 🧰 Languages and Tools
 
 <br>
@@ -23,6 +25,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
+<br><br>
+
 ### 📬 Get in Touch
 
 <br>
@@ -30,6 +34,8 @@
 - <img align="left" alt="Khalid's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />: [linkedin.com/kahme022](https://www.linkedin.com/in/kahme022/)
 - <img align="left" alt="Khalid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />: [github.com/kahme022](https://github.com/kahme022)
 - <img align="left" alt="Khalid's Github" width="22px" src="https://www.flaticon.com/free-icon/email_893257?term=email&page=1&position=65&page=1&position=65&related_id=893257&origin=tag" />: kahme022@uottawa.ca
+
+<br><br>
 
 ### 📈 My Github Stats
 
