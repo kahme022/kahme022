@@ -27,16 +27,6 @@
 - <img align="left" alt="Khalid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />: [github.com/kahme022](https://github.com/kahme022)
 - <img align="left" alt="Khalid's Github" width="22px" src="https://www.flaticon.com/free-icon/email_893257?term=email&page=1&position=65&page=1&position=65&related_id=893257&origin=tag" />: kahme022@uottawa.ca
 
-- Site: [federico-dondi.github.io][site]
-
-
-
-[stackoverflow]: https://stackoverflow.com/users/13278024/federico-dondi
-[github]: https://github.com/kahme022
-[site]: https://federico-dondi.github.io
-
-
-
 ### 📈 My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&theme=gotham" alt="kahme022" />
