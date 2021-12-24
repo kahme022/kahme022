@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid Ahmed</h1>
 
 - 🎓 Studying Software Engineering with Co-op at the University of Ottawa, class of 2022
-- 💼 Incoming SDE Intern @Redfin (Summer 2022), Prev: SDE Intern @PierreNelsonConsulting, @HealthCanda, @CorrectionalServiceCanada
+- 💼 Incoming SDE Intern @Redfin, Previous SDE Intern @PierreNelsonConsulting, @HealthCanda, @CorrectionalServiceCanada
 - 🌱 I’m currently learning **Cyber Security** at UniMore
 - 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
 - ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
