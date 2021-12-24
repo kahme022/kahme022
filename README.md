@@ -2,9 +2,7 @@
 
 - 🎓 Studying Software Engineering with Co-op at the University of Ottawa, class of 2022
 - 💼 Incoming SDE Intern @Redfin, Previous SDE Intern @PierreNelsonConsulting, @HealthCanda, @CorrectionalServiceCanada
-- 🌱 I’m currently learning **Cyber Security** at UniMore
-- 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
-- ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
+- 🌱 Keen interest in Mobile Application, Cloud Computing, and AI
 - 📫 You can reach me at kahme022@uottawa.ca
 
 <br>
@@ -29,8 +27,9 @@
 [<img align="left" alt="Khalid's Linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/kahme022/)
 [<img align="left" alt="Khalid's Github" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"/>](https://github.com/kahme022)
 
-<br>
-<br>
+<br><br>
+
+
 
 ### 📈 My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=kahme022&show_icons=true&theme=gotham" alt="kahme022" />
