@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalid Ahmed</h1>
 
-- 🎓 Studying Software Engineering with Co-op at the University of Ottawa, class of 2022
+- 🎓 4th year Software Engineering student at the University of Ottawa (2022)
 - 💼 Incoming SDE Intern @Redfin, Previous SDE Intern @PierreNelsonConsulting, @HealthCanda, @CorrectionalServiceCanada
 - 🌱 Keen interest in Mobile Application, Cloud Computing, and AI
 - 📫 You can reach me at kahme022@uottawa.ca
