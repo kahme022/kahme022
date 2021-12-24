@@ -26,9 +26,9 @@
 <br>
 
 ### 📬 Get in Touch
-- <img align="left" alt="Khalid's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />: [linkedin.com/kahme022](https://www.linkedin.com/in/kahme022/)
-- <img align="left" alt="Khalid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />: [github.com/kahme022](https://github.com/kahme022)
-- <img align="left" alt="Khalid's Github" width="22px" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail" />: kahme022@uottawa.ca
+[<img align="left" alt="Khalid's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/kahme022/)
+[<img align="left" alt="Khalid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"/>](https://github.com/kahme022)
+[<img align="left" alt="Khalid's Email" width="22px" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail"/>]()
 
 <br>
 
