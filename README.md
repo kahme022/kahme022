@@ -23,17 +23,12 @@
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/federico-dondi][github]
-<a href="https://www.linkedin.com/in/kahme022/">
-  <img align="left" alt="Khalid's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://github.com/kahme022">
-  <img align="left" alt="Khalid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
+- <img align="left" alt="Khalid's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />: [linkedin.com/kahme022](https://www.linkedin.com/in/kahme022/)
+- <img align="left" alt="Khalid's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />: [github.com/kahme022](https://github.com/kahme022)
+- <img align="left" alt="Khalid's Github" width="22px" src="https://www.flaticon.com/free-icon/email_893257?term=email&page=1&position=65&page=1&position=65&related_id=893257&origin=tag" />: kahme022@uottawa.ca
 
 - Site: [federico-dondi.github.io][site]
-- E-mail: federico.dondi2@studio.unibo.it
+
 
 
 [stackoverflow]: https://stackoverflow.com/users/13278024/federico-dondi
