@@ -5,7 +5,6 @@
 - 🌱 Keen interest in Mobile Application, Cloud Computing, and AI
 - 📫 You can reach me at kahme022@uottawa.ca
 
-<br>
 
  ### 🧰 Languages and Tools
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -21,14 +20,10 @@
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
-<br>
 
 ### 📬 Get in Touch
 [<img align="left" alt="Khalid's Linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>](https://www.linkedin.com/in/kahme022/)
 [<img align="left" alt="Khalid's Github" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"/>](https://github.com/kahme022)
-
-<br><br>
-
 
 
 ### 📈 My Github Stats
