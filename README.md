@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid Ahmed</h1>
 
 - 🎓 4th year Software Engineering Student at the University of Ottawa (2022)
-- 💼 Incoming SDE Intern @Redfin, Previous SDE Intern @PierreNelsonConsulting, @HealthCanda, @CorrectionalServiceCanada
+- 💼 Previous SWE Intern @Redfin, @PierreNelsonConsulting, @HealthCanda, @CorrectionalServiceCanada
 - 🌱 Keen interest in Mobile Application, Cloud Computing, and AI
 - 📫 You can reach me at kahme022@uottawa.ca
 
